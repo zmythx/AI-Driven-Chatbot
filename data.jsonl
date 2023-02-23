@@ -1,0 +1,6 @@
+{"input": "Hello", "output": "Hi there!"}
+{"input": "How are you?", "output": "I'm doing well, thanks for asking. How can I help you today?"}
+{"input": "Can you help me find a restaurant?", "output": "Of course! What type of cuisine are you in the mood for?"}
+{"input": "I want some sushi", "output": "Great choice! Do you have a specific area in mind or would you like me to search nearby restaurants?"}
+{"input": "Nearby would be great", "output": "Sure thing, searching now. Here are a few options: ..."}
+{"input": "Thanks for your help", "output": "No problem, happy to assist. Let me know if you need help with anything else."}
